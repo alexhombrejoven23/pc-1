@@ -8,42 +8,42 @@ const App = () => {
       id: 1,
       name: "Bill Mahoney",
       role: "PRODUCT OWNER",
-      photo: "/public/photo1.png", 
+      photo: "/src/assets/imagenes/photo1.png", 
       position: "top"
     },
     {
       id: 2,
       name: "Saba Cabrera",
       role: "ART DIRECTOR",
-      photo: "/public/photo2.png",
+      photo: "/src/assets/imagenes/photo2.png",
       position: "bottom"
     },
     {
       id: 3,
       name: "Shae Le",
       role: "TECH LEAD",
-      photo: "/public/photo3.png",
+      photo: "/src/assets/imagenes/photo3.png",
       position: "top"
     },
     {
       id: 4,
       name: "Skylah Lu",
       role: "UX DESIGNER",
-      photo: "/public/photo4.png",
+      photo: "/src/assets/imagenes/photo4.png",
       position: "bottom"
     },
     {
       id: 5,
       name: "Griff Richards",
       role: "DEVELOPER",
-      photo: "/public/photo5.png",
+      photo: "/src/assets/imagenes/photo5.png",
       position: "top"
     },
     {
       id: 6,
       name: "Stan John",
       role: "DEVELOPER",
-      photo: "/public/photo6.png",
+      photo: "/src/assets/imagenes/photo6.png",
       position: "bottom"
     }
   ];
