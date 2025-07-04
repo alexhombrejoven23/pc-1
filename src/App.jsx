@@ -67,9 +67,9 @@ const App = () => {
             <h1 className="text-3xl md:text-5xl font-bold">The creative crew</h1>
           </div>
           <div className="md:w-5/12">
-            <h2 className="text-lg md:text-xl font-bold mb-2">WHO WE ARE</h2>
+            <h2 className="text-lg md:text-xl font-bold mb-2">WHO WE ARE.</h2>
             <p className="text-base md:text-lg">
-              We are team of creatively diverse, driven, innovative individuals working in various locations from the world .
+              We are team of creatively diverse, driven, innovative individuals working in various locations from the world.
             </p>
           </div>
         </div>
